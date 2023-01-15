@@ -7,11 +7,13 @@
    background-color:blanchedalmond;
    padding: 80px;
    position: relative;
+   height: 1000px;
    
 }
 .header-section{
    position: absolute;
    top:35px;
+   left: 220px;
    
 }
 .header-section h2{
@@ -36,4 +38,41 @@
     text-decoration: none;
     color: #424242;
     font-size: 18px;
+}
+/* architects styles */
+
+.architect{
+    position: absolute;
+    top:200px;
+    left:400px;
+    /* right: 300px; */
+    text-align: center;
+    width: 500px;
+}
+.architect-title {
+     font-weight: 700px;
+     font-size: 50px;
+}
+.architect-sub-title {
+    font-weight: 400px;
+    font-size: 18px;
+    color:  #727272;
+}
+.btn{
+    background-color: #FF900E;
+    color:white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.architect-image{
+    position: absolute;
+    top:550px;
+    right: 170px;
+    /* left: 200px; */
+}
+.architect-image img{
+    width: 1000px;
+    height: 500px;
 }
