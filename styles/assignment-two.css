@@ -32,7 +32,7 @@
 .nav-section{
     position: absolute;
     top: 65px;
-    right: 220px;
+    right: 240px;
 }
 .nav-section-item{
     display: flex;
@@ -78,7 +78,7 @@
 .architect-image{
     position: absolute;
     top:550px;
-    left: 250px;
+    left: 230px;
     /* left: 200px; */
 }
 .architect-image img{
@@ -222,7 +222,7 @@
 .fact-item{
     position: absolute;
     top: 2850px;
-    left:270px;
+    left:260px;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -252,7 +252,7 @@
 .sponser-title{
     position: absolute;
     top: 3150px;
-    left: 550px;
+    left: 540px;
     width: 300px;
     text-align: center;
 
@@ -293,14 +293,14 @@
 .footer{
     position: absolute;
     top: 3400px;
-    left:180px;
+    left:170px;
     bottom: 500px;
-    width:900px;
+    /* width:900px; */
     background-color: #FFF4E7;
     border-radius: 5px;
     text-align: center;
     color: #727272;
     letter-spacing: normal;
-    padding: 40px 100px;
+    padding: 40px 350px;
    
 }
