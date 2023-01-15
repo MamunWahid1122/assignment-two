@@ -19,7 +19,7 @@
 .header-section{
    position: absolute;
    top:55px;
-   left: 210px;
+   left: 190px;
    
 }
 .header-section h2{
@@ -50,8 +50,7 @@
 .architect{
     position: absolute;
     top:200px;
-    left:470px;
-    /* right: 300px; */
+    left:455px;
     text-align: center;
     width: 500px;
    
@@ -78,7 +77,7 @@
 .architect-image{
     position: absolute;
     top:550px;
-    left: 230px;
+    left: 210px;
     /* left: 200px; */
 }
 .architect-image img{
@@ -181,7 +180,7 @@
    
 }
 .future-image img{
-    width: 500px;
+    width: 475px;
     height: 660px;
 }
 .future-btn{
@@ -301,6 +300,6 @@
     text-align: center;
     color: #727272;
     letter-spacing: normal;
-    padding: 40px 350px;
+    padding: 40px 330px;
    
 }
