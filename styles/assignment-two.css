@@ -1,0 +1,39 @@
+
+/*---------------------------
+         header styles
+ ---------------------------*/
+.header{
+   
+   background-color:blanchedalmond;
+   padding: 80px;
+   position: relative;
+   
+}
+.header-section{
+   position: absolute;
+   top:35px;
+   
+}
+.header-section h2{
+    color:#131313;
+    font-size: 40px;
+}
+/*------------------
+      nav styles
+ -------------------*/
+.nav-section{
+    position: absolute;
+    top: 65px;
+    right: 200px;
+}
+.nav-section-item{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    
+} 
+.nav-section-item a{
+    text-decoration: none;
+    color: #424242;
+    font-size: 18px;
+}
